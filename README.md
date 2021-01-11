@@ -1,1 +1,1 @@
-![Stuck-in-a-time-loop](/stuck)
+![Stuck-in-a-time-loop](/stuck.png)
